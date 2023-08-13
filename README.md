@@ -6,6 +6,13 @@ Bone Segmentation은 인공지능 분야에서 중요한 응용 분야 중 하�
   여러분에 의해 만들어진 우수한 성능의 모델은 질병 진단, 수술 계획, 의료 장비 제작, 의료 교육 등에 사용될 수 있을 것으로 기대됩니다. 🌎
 ![예시 이미지](images/b.jpg)
 
+<br />
+
+## 🏅 개인(박상필) Wrap-Up Report   
+- [개인 Wrap-Up Report👑](https://drive.google.com/file/d/174kHclujkRtCFakzYIPv2-0_rDph5zIP/view?usp=drive_link)
+
+<br />
+
 ## 🧙‍♂️Team
 
 |                                                                           [김지현](https://github.com/codehyunn)                                                                           |                                                                           [박상필](https://github.com/SangphilPark)                                                                           |                                                                           [오동혁](https://github.com/97DongHyeokOH)                                                                           |                                                                           [이상민](https://github.com/dldltkdals)                                                                           |                                                                           [이태순](https://github.com/LTSGOD)                                                                           |
